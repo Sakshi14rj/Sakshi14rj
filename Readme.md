@@ -1,4 +1,4 @@
-![Alt Text] https://i.ytimg.com/vi/WXYwhCYbLRA/maxresdefault.jpg
+![Alt Text](https://i.ytimg.com/vi/WXYwhCYbLRA/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <p align ="right" alt ="coding" width ="400" src ="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=1200x900&vertical=center"> </p>
