@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/564x/ba/ca/b3/bacab38ac98e68adf357360d54a9542a.jpg)
+![Alt Text](https://www.canva.com/design/DAFoa0ZoyzY/jCYzph-UidNObtHE6B_GDw/view?utm_content=DAFoa0ZoyzY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <p align ="right" alt ="coding" width ="400" src ="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=1200x900&vertical=center"> </p>
