@@ -1,7 +1,7 @@
 ![Alt Text](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<p(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") compress=1&resize=1200x900&vertical=center"> </p>
+<p(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi14rj&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi14rj" /> </p>
 
