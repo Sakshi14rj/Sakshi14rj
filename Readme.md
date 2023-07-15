@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/564x/4d/3a/8c/4d3a8ca3867ddbcde41a94655be3b415.jpg)
+![Alt Text](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <p(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") compress=1&resize=1200x900&vertical=center"> </p>
