@@ -1,7 +1,7 @@
 ![Alt Text](https://i.pinimg.com/564x/4d/3a/8c/4d3a8ca3867ddbcde41a94655be3b415.jpg)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<p align ="right" alt ="coding" width ="400" src ="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?" compress=1&resize=1200x900&vertical=center"> </p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") compress=1&resize=1200x900&vertical=center"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi14rj&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi14rj" /> </p>
 
